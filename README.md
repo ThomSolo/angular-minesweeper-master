@@ -1,8 +1,6 @@
 # Minesweeper built in Angular
 
-[Play the game](https://stephenfluin.github.io/angular-minesweeper/)
-
-[![Game Screenshot](screenshot.png)](https://stephenfluin.github.io/angular-minesweeper/)
+[Play the game](https://github.com/ThomSolo/angular-minesweeper-master/)
 
 ## Development
 All custom code lives in /src/app
